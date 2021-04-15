@@ -1,6 +1,6 @@
 Sample to show allocations in a Java Flight Recording
 =====================================================
-
+Hello test!
 This program checks whether a number is prime.
 
 Run the program and also make a profiling recording.
